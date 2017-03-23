@@ -1,0 +1,12 @@
+.loader-image{
+	margin-left: 200px;
+}
+.cotainer{
+	background-color: white;
+	display: tabel-cell;
+	width: 100%;
+	vertical-align: top;
+}
+.invalid_search{
+	background-color: #fff;
+}

@@ -1,0 +1,18 @@
+label {
+  clear: left;
+  display: block;
+  float: left;
+  text-align: right;
+}
+.form-class{
+  margin-top: 20px;
+}
+.btn-primary{
+	color: #fff;
+	background-color: #006cb7;
+
+
+}
+.btn-primary:hover{
+	background: #004f84;
+}

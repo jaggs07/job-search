@@ -1,0 +1,56 @@
+.job-list-container{
+  border:1px solid #cccccc;
+}
+.job-container{
+  border-bottom: 1px solid #ccc;
+  padding:10px;
+  display: table;
+  width:100%;
+  margin:0;
+  line-height: 22px;
+  background-color: #fff;
+
+}
+li.job-content:last-child{
+  border-bottom: 0;
+}
+
+ul{
+  padding:0;
+}
+.job-details{
+  display:table-cell;
+  padding-left: 10px;
+  padding-bottom: 10px;
+
+}
+
+.image-container{
+  display:table-cell;
+  vertical-align: bottom;
+  float: none;
+
+}
+
+.job-title{
+  margin:10px 0;
+  line-height: 30px;
+}
+.site-image{
+  height: 25px;
+}
+ .suggest-info{
+  font-size: 18px;
+  text-align: center;
+  color: black;
+ }
+ .jobHeader{
+  font-size: 20px;
+  color: black;
+ }
+.error-text{
+	font-size: 18px;
+}
+.invalid-search{
+  background-color: #fff;
+}
